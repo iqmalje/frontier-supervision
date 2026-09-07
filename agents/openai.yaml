@@ -1,0 +1,6 @@
+interface:
+  display_name: "Frontier Supervision"
+  short_description: "Keep the supervisor focused on reasoning"
+  default_prompt: "Use $frontier-supervision for this session and delegate all operational work."
+policy:
+  allow_implicit_invocation: false
